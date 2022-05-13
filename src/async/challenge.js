@@ -10,7 +10,7 @@ const anotherFunction = async () => {
         console.log(data.info.count);
         console.log(character.name);
         console.log(origin.dimension);
-        
+
     } catch (error) {
         console.error(error);
     }
